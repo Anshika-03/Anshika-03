@@ -1,4 +1,4 @@
-r/src/imag<h1 align="center">Hi 👋, I'm Anshika</h1>
+r/src/<h1 align="center">Hi 👋, I'm Anshika</h1>
 "Life without challenges is a stagnant existence."
 - 🌱 I’m currently learning **React and Next.js**
 
