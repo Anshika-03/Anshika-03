@@ -1,6 +1,6 @@
 
 "Life without challenges is a stagnant existence."
-- 🌱 I’m currently learning **React and Next.js**
+
 
 - 💬 Ask me about **Web Development, Java and DBMS**
 
